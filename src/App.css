@@ -1,0 +1,19 @@
+.Box{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display:flex;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+    min-Height: 100vh;
+    background-Color: #f0f0f0;
+    padding: 20px;
+    flex-direction: column;
+}
+.card{
+        background-Color: #fff;
+        padding: 30px;
+        border-Radius: 12px;
+        width: 100%;
+        max-Width: 400px;
+        text-Align: center;
+}
